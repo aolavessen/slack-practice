@@ -6,7 +6,7 @@ export default class SendPostView {
 
     this.notification = ``;
 
-    this.render();
+    this.render()
   }
 
   listenForClick() {
